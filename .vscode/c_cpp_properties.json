@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceRoot}",
+                "${IDF_PATH}/components",
+                "${XTENSA_ESP32_ELF_PATH}/xtensa-esp32-elf/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "${workspaceRoot}",
+                    "${IDF_PATH}/components",
+                    "${XTENSA_ESP32_ELF_PATH}/xtensa-esp32-elf/include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

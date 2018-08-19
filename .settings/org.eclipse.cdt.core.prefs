@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/IDF_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/IDF_PATH/value=/home/joetu/esp/esp-idf/
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/PATH/value=${PATH}\:/esp32/xtensa-esp32-elf/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2135654253/appendContributed=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/IDF_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/IDF_PATH/value=/home/joetu/esp/esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/PATH/value=/home/joetu/esp/xtensa-esp32-elf/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/home/joetu/esp/xtensa-esp32-elf/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.843077323/appendContributed=true
