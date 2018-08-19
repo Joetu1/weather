@@ -14,6 +14,7 @@
 #include "esp_event_loop.h"
 #include "nvs_flash.h"
 #include "esp_log.h"
+#include "sdkconfig.h"
 
 static const char *TAG = "USER_APP";
 
