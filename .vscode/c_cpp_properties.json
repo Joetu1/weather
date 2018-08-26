@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**",
                 "${workspaceRoot}",
                 "${IDF_PATH}/components",
-                "${XTENSA_ESP32_ELF_PATH}/xtensa-esp32-elf/include"
+                "${XTENSA_ESP32_ELF_PATH}/xtensa-esp32-elf/include",
+                "/home/joetu/esp/esp-idf/components/esp_http_client/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
