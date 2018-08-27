@@ -9,6 +9,7 @@
 #include "esp_log.h"
 #include "esp_err.h"
 #include "esp_http_client.h"
+// #include "json/cJSON/cJSON.h"
 
 static const char *TAG = "APP_WEATHER";
 
@@ -85,6 +86,16 @@ void app_weather_get()
 		default:
 			break;
 		}
+		char buf[256] = {0};
+		if (-1 != esp_http_client_read(client, buf, esp_http_client_get_content_length(client)))
+		{
+			ESP_LOGI(TAG,"%s",buf);
+		}
+		else
+		{
+		ESP_LOGE(TAG," esp_http_client_read error" );
+		}
+		
 	}
 	else
 	{

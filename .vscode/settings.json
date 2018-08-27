@@ -19,6 +19,7 @@
         "ratio": "c",
         "system_error": "c",
         "type_traits": "c",
-        "*.ipp": "c"
+        "*.ipp": "c",
+        "cjson.h": "c"
     }
 }
